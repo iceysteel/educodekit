@@ -1,0 +1,41 @@
+body{
+    background-color: #22313F;
+    font-family: sans-serif
+}
+
+.textbox{
+    background-color: #34495E;
+    max-width: 35%;
+    padding: .5em;
+    border-radius: 3px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+#title{
+    font-size: 1.5em;
+    max-height: 10%
+}
+
+#instructions{
+    font-size: 1.2em;
+    height: 63%;
+    overflow-y: scroll;
+}
+
+#do{
+    background-color: #2574A9;
+    height: 20%;
+    overflow-y: scroll
+}
+
+
+
+
+
+
+
+
+
+
+
