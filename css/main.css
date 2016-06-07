@@ -10,6 +10,7 @@ body{
     border-radius: 3px;
     color: white;
     margin-bottom: 5px;
+    
 }
 
 #title{
@@ -29,8 +30,18 @@ body{
     overflow-y: scroll
 }
 
+#codebox{
+    float: right;
+    max-width: 60%;
+    height: 90%;
+    max-height: 70%;
+}
 
-
+#output{
+    float: right;
+    max-width: 60%;
+    max-height: 30%;
+}
 
 
 
